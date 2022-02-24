@@ -7,6 +7,7 @@ import reportWebVitals from './reportWebVitals';
 var element = React.createElement('h1', {className: 'greeting' }, 'Hello, world!');
 ReactDOM.render(element, document.getElementById('root'));
 
+// Code should launch a web page and output "Hello, world!"
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
